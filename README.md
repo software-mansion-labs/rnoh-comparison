@@ -14,6 +14,7 @@ npm start
 ```sh
 npm run ios        # iOS
 npm run android    # Android
+npm run harmony    # HarmonyOS
 ```
 
 ### Prerequisites
