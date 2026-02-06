@@ -1,0 +1,7 @@
+.bundle
+android
+harmony
+ios
+node_modules
+vendor
+*.lock
